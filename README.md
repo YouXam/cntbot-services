@@ -1,6 +1,6 @@
 # cntbot-services
 
-[cntbot](https://github.com/YouXam/cntbot) 用到的服务。
+[cntbot](https://github.com/YouXam/cntbot) 用到的云函数服务。
 
 均部署在了腾讯云函数，具体查看相关 README.md
 
