@@ -1,0 +1,10 @@
+{
+  "name": "auto_clean",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.11.6",
+    "mongodb": "^4.4.0"
+  }
+}
